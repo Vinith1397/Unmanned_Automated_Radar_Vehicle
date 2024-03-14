@@ -1,3 +1,4 @@
 # Unmanned_Automated_Radar_Vehicle
-This ultrasonic Radar based Unmanned Automated Vehicle with Bluetooth module, LED and TFT display.
+This is  ultrasonic Radar based Unmanned Automated Vehicle with arduino Uno, Hc-05 Bluetooth module,HC-SR04 Ultrasonic Module,LED and TFT display modules.Coded with Arduino IDE and C language with pre installed header file libraries. IT can be operrated in either Wirelesss mode or Auto mode based on our preference.
+In Wirelesds mode you can use your mobile to instruct Vehicle to go as per your directions using HC-05 Bluetooth Module and In Auto mode it will Scan the radius of 30 cams using HC-SR04 Ultrasonic Module Distance Measuring Transducer Sensor and decides the next direction based on Object found and act accordingly to reach the destination.
 <img width="613" alt="Screenshot 2024-03-14 at 3 02 46 PM" src="https://github.com/Vinith1397/Ultrasonic_Radar_Vehicle/assets/107805799/f92c84a3-5dbc-4a4e-ba00-bb2d697381a4">
